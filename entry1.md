@@ -1,4 +1,4 @@
-#Notes & Response on reading by Gabriel Hernandez-Zepeda:
+# Notes & Response on reading by Gabriel Hernandez-Zepeda:
 
 The tone of Norman’s writing conveys a sense of experience through trial and error as well as years spent working in ‘the industry’.
 ** From Preface: **
