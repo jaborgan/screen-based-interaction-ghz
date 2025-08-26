@@ -1,4 +1,4 @@
-# Notes & Response on reading by Gabriel Hernandez-Zepeda:
+# Notes & Response on reading by Gabriel Hernandez-Zepeda
 
 The tone of Norman’s writing conveys a sense of experience through trial and error as well as years spent working in ‘the industry’.
 ** From Preface: **
@@ -59,14 +59,15 @@ Mappings ~
 
 “Natural mapping, by which I mean taking advantage of physical analogies and cultural standards, leads to immediate understanding.”
 
+I find Norman's ideas to be very intruiging especially with regard to how he frames an analysis of technological design into different attributes, mainly affordances, constraints, feedback, and mappings. I think that most people don't think about design because it is so ubiquitous from the second we wake up to the moment we go to sleep. Design truly is all around us. One of the main things that I think about with regard to this text are a) issues of sustainability, and b) the human psychological effect of companies trying to 'monetize' everything we do. When our existence becomes ultimately extractive down to our very waking experience, have we designed ourselves into an inferior mode of life?
+In the future will only those with money be able to enjoy life ad-free because they have paid the subscription? After reading a few of these types of design textbooks I feel like a lot of the instances of design that most of us live with today need to be re-adapted in order to liberate ourself rather than have our experiences of reality monetized down to the last minute. However it does help to verbalize and ascribe terms for dealing with these design concepts so that in a rational sense we can respond to and perhaps ultimately improve certain design concepts, successes and /or failures.
 
 
-
-“The manufacturer wants something that can be produced economically. The store wants something that will be attractive to its customers. The purchaser has several demands.”
+“The manufacturer wants something that can be produced economically. The store wants something that will be attractive to its customers. The purchaser has several demands.” p.23
 
 CD-Roms $$$.
 
 Soft-drink machines.
 
-Questions:
+Further Questions:
 Are all humans designers to some extent? By either modifying or adapting to the natural world / environment?
