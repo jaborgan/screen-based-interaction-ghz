@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 20;
+  background: black;
+
+}
+
+h1, p {
+  font-family:'Courier New', Courier, monospace;
+
+  text-align: center;
+  
+
+}
+h1 {
+  color: lightcoral;
+  font-style: italic;
+  text-shadow: 1px 2px black;
+}
+p {
+  color:azure;
+  font-size: 13pt;
+  font-weight: 1000;
+  text-shadow: 2px 2px black;
+}
+canvas {
+  display: block;
+}
