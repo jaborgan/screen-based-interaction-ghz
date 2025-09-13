@@ -6,13 +6,13 @@ assignment links:
 This is a link test -> [check out this astroturf website!](https://en.wikipedia.org/wiki/AstroTurf)
 --------------------------------
 
-🦘 ## **9-13-35 Ghz Char_ Random1zer App:** **[click here!](https://jaborgan.github.io/screen-based-interaction-ghz//char_randomizer/index.html)** 🦘
+🦘 ## **9-13-35 Ghz Char_ Random1zer App:** **[click here!](https://jaborgan.github.io/screen-based-interaction-ghz//char_randomizer/index.html)**
 --------------------------------
 
-[sin/cosine prototype TEST](https://editor.p5js.org/jaborgan/full/_80O4WllV)
+🦚 [sin/cosine prototype TEST](https://editor.p5js.org/jaborgan/full/_80O4WllV)
 ---------------------------------
 
-[randomizer exercise 1 - "bubble painter procedural art prototype"](https://editor.p5js.org/jaborgan/full/ZnzWsLdTQ)
+🦑 [randomizer exercise 1 - "bubble painter procedural art prototype"](https://editor.p5js.org/jaborgan/full/ZnzWsLdTQ)
 ---------------------------------
 
 ## second level test   
