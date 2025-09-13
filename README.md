@@ -1,18 +1,17 @@
-# w3lcome to the first git Hub page
+# welcome to the first git Hub page by g.a.h.z.
 
 description: github repo for mm621 class fall 2025 prof tyler
+assignment links:
 
-a separate paragraph! Loren ipsum
+This is a link test -> [check out this astroturf website!](https://en.wikipedia.org/wiki/AstroTurf)
+---
+:kangaroo: ## **9-13-35 Ghz Char_ Random1zer App:** **[click here!](https://jaborgan.github.io/screen-based-interaction-ghz//char_randomizer/index.html)** :kangaroo:
+---
+## second level test   
 
-This is a link -> [check out this astroturf website!](https://en.wikipedia.org/wiki/AstroTurf)
+**bold**
 
-character Randomizer App: [click here!](https://jaborgan.github.io/screen-based-interaction-ghz//char_randomizer/index.html)
-
-## second level heading test
-
-**bold ideas go here**
-
-*very italianized texts go here**
+*italianized text*
 
 ### kinds of ice cream
 
