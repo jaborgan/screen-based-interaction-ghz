@@ -5,6 +5,7 @@ description: github repo for mm621 class fall 2025 prof tyler
 a separate paragraph! Loren ipsum
 
 This is a link -> [check out this astroturf website!](https://en.wikipedia.org/wiki/AstroTurf)
+character Randomizer App: [click here!](https://jaborgan.github.io/screen-based-interaction-ghz//char_randomizer/index.html)
 
 ## second level heading test
 
