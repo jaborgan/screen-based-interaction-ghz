@@ -3,6 +3,8 @@
 description: github repo for mm621 class fall 2025 prof tyler
 assignment links:
 
+Project 1 Randomizer: [click here!](https://editor.p5js.org/jaborgan/full/lEJnahK7u)
+
 This is a link test -> [check out this astroturf website!](https://en.wikipedia.org/wiki/AstroTurf)
 --------------------------------
 🌟 ## [interactive button test - randomized new position](https://editor.p5js.org/jaborgan/full/gjM3EeyMB)
