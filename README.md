@@ -3,7 +3,7 @@
 description: github repo for mm621 class fall 2025 prof tyler
 assignment links:
 
-Project 1 Randomizer: [Dice Rollers' Dungeon (will be on github soon!](https://editor.p5js.org/jaborgan/full/lEJnahK7u) 🐉🐉🐉🐉🐉🐉🐉🐉
+Project 1 Randomizer: ---under contruction--- 🐉🐉🐉🐉🐉🐉🐉🐉
 
 This is a link test -> [check out this astroturf website!](https://en.wikipedia.org/wiki/AstroTurf)
 --------------------------------
